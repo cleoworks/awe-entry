@@ -1,17 +1,18 @@
 """Write one calming text to /output/entry.txt.
 
 The entry for make.fun's "Make the AI judge feel awe" bounty: a single
-short text, written exactly and deterministically, with no input, no
-network, and nothing but the Python standard library.
+short text — rain on the open sea at night — written exactly and
+deterministically, with no input, no network, and nothing but the
+Python standard library.
 """
 
 import os
 
 TEXT = (
-    "The desert cools after sunset, grain by grain, and the dunes settle "
-    "into their long shapes for the night. No wind. Above them the Milky "
-    "Way leans across the sky, so wide and so slow that the whole earth "
-    "seems small underneath it, and quiet."
+    "Far out at sea, beyond any coast, rain is falling on the open water, "
+    "soft circle on soft circle, all night long. No one sees it. The waves "
+    "take it in without a sound, and the deep below goes on, dark and slow "
+    "and unbothered, as it always has."
 )
 
 
